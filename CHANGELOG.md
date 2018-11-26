@@ -10,6 +10,10 @@ dev-master
 - Enh: Remove "error/success" class css template to be cloned.
 - Bug: Fixes for: checkbox(), checkboxList(), radio() and radioList()
 
+version 2.0.3
+-------------
+**Date:** 26-Nov-2018
+- Fix undefined widgetOptions
 
 version 2.0.2
 -------------
